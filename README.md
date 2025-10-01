@@ -5,8 +5,12 @@
 - Extends Python’s semantics while maintaining full interoperability with the Python ecosystem.  
 - Introduces cutting-edge abstractions designed to reduce complexity and embrace AI-forward development.  
 
----
+## Running Jac file
 
+```bash
+jac run file.jac
+```
+---
 ## Jac for AI
 - A function body can be directly replaced with a call to an LLM, removing the need for prompt engineering or additional libraries.  
 - **Powerful by `llm()`**  
